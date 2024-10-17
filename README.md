@@ -1,7 +1,13 @@
-### Olá, Eu sou o Leonardo Testa 👋🏻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c009b&height=120&section=header"/>
 
 
-![t3staa GitHub stats](https://github-readme-stats.vercel.app/api?username=t3staa&show_icons=true&theme=nord)
+
+<div>
+
+  ### Olá, Eu sou o Leonardo Testa 👋🏻
+  
+  ![t3staa GitHub stats](https://github-readme-stats.vercel.app/api?username=t3staa&show_icons=true&theme=midnight-purple)
+  
 
 ### Tecnologias que uso no meu dia 
 <div style="display: inline_block">
@@ -32,3 +38,7 @@
 ### :earth_americas: Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-testa-74b2211b5)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:testa.leo@outlook.com)
+
+
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c009b&height=120&section=footer"/>
